@@ -18,3 +18,21 @@ pkg install python git -y
 pip install requests
 git clone https://github.com/InsaneHacker9T1/Cc-checker-bin-look-up.git
 cd Cc-checker-bin-look-up
+## 💻 How to Run on Windows (PC)
+
+### 🔧 Prerequisites
+
+1. **Install Python** – Download from [python.org](https://www.python.org/downloads/).  
+   **Important:** During installation, check ✅ **"Add Python to PATH"**.
+
+2. **Install Git** (optional, for cloning) – Download from [git-scm.com](https://git-scm.com/downloads/win).  
+   *If you don't want Git, you can download the ZIP file from GitHub and extract it.*
+
+---
+
+### 🚀 Steps to Run (Command Prompt or PowerShell)
+
+1. **Clone the repository** (or download ZIP and extract):
+   ```bash
+   git clone https://github.com/InsaneHacker9T1/Cc-checker-bin-look-up.git
+   cd Cc-checker-bin-look-up
